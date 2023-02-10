@@ -1,2 +1,2 @@
 # Exploring-Audio-Anomaly-ML
- Exploring possible methods for Acoustic anomaly detection using deiffrent classification and sound profiling methods
+## Exploring possible methods for Acoustic anomaly detection using different classification and sound profiling methods
